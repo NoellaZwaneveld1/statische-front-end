@@ -1,0 +1,38 @@
+html{
+    background-color: black;
+}
+
+body{
+    background-color: dimgrey;
+    margin: 20px;
+    padding: 20px;
+}
+
+h1{
+    color: #3c1361;
+    background-color: #7e7e7e;
+    width: 100%;
+    text-align: center;
+}
+
+h2{
+    color: #52307c;
+}
+
+nav{
+    background-color: #7e7e7e;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+a {
+    color: blue;
+    margin: 40px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #663a82;
+}
